@@ -2,7 +2,7 @@
 
 Native Windows clipboard operations for tree-view files and folders.
 
-![context-menu](https://github.com/asiloisad/pulsar-windows-clip/blob/master/assets/context-menu.png?raw=true)
+![context-menu](https://github.com/asiloisad-pulsar/windows-clip/blob/master/assets/context-menu.png?raw=true)
 
 ## Features
 
