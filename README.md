@@ -14,7 +14,7 @@ Native Windows clipboard operations for tree-view files and folders.
 
 ## Installation
 
-To install `windows-clip` search for [windows-clip](https://web.pulsar-edit.dev/packages/windows-clip) in the Install pane of the Pulsar settings or run `ppm install windows-clip`. Alternatively, you can run `ppm install asiloisad/pulsar-windows-clip` to install a package directly from the GitHub repository.
+To install `windows-clip` search for [windows-clip](https://web.pulsar-edit.dev/packages/windows-clip) in the Install pane of the Pulsar settings or run `ppm install windows-clip`. Alternatively, you can run `ppm install asiloisad-pulsar/windows-clip` to install a package directly from the GitHub repository.
 
 ## Commands
 
