@@ -2,6 +2,9 @@
 
 Native Windows clipboard operations for tree-view files and folders.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [native-clip](https://github.com/lumine-code/native-clip).
+
 ![context-menu](https://github.com/asiloisad-pulsar/windows-clip/blob/master/assets/context-menu.png?raw=true)
 
 ## Features
